@@ -1,0 +1,1 @@
+Raw data from behavioral interventions implemented under Horizon Europe project WENDY. Data was collected from four use case areas - Greece, Spain, Italy and Norway, under two phases (pilot and main) in 2024. 
